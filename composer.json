@@ -38,7 +38,7 @@
         "evenement/evenement": "^2.0|^3.0",
         "facade/ignition-contracts": "^1.0",
         "guzzlehttp/psr7": "^2.6",
-        "illuminate/broadcasting": "^11.0",
+        "illuminate/broadcasting": "^10.10",
         "illuminate/console": "^10.10",
         "illuminate/http": "^10.10",
         "illuminate/queue": "^10.10",
